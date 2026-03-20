@@ -1,0 +1,226 @@
+{
+  "publications": [
+    {
+      "year": 2025,
+      "title": "Boscalid – a new selectable marker for <em>Ascochyta lentis</em> and <em>Ascochyta rabiei</em>",
+      "authors": "Debler JW, Lee RC, Singh KB, Kamphuis LG, Henares BM",
+      "journal": "Fungal Biology",
+      "doi": "10.1016/j.funbio.2025.101615"
+    },
+    {
+      "year": 2023,
+      "title": "Virulence profiles and genome-wide association study for <em>Ascochyta lentis</em> isolates collected from Australian lentil-growing regions",
+      "authors": "Henares BM, Blake SN, Farfan-Caceres LM, Tahghighi H, Debler JW, Russ MH, et al.",
+      "journal": "Phytopathology",
+      "doi": "10.1094/PHYTO-10-22-0397-R"
+    },
+    {
+      "year": 2022,
+      "title": "The novel avirulence effector AlAvr1 from <em>Ascochyta lentis</em> mediates host cultivar specificity of ascochyta blight in lentil",
+      "authors": "Henares BM, Debler JW, Farfan-Caceres LM, Grime CR, Syme RA, Blake SN, et al.",
+      "journal": "Molecular Plant Pathology",
+      "doi": "10.1111/mpp.13203"
+    },
+    {
+      "year": 2021,
+      "title": "Reference genome assembly for Australian <em>Ascochyta lentis</em> isolate Al4",
+      "authors": "Lee RC, Farfan-Caceres LM, Debler JW, Williams AH, Syme RA, Henares BM",
+      "journal": "G3: Genes, Genomes, Genetics",
+      "doi": "10.1093/g3journal/jkab006"
+    },
+    {
+      "year": 2021,
+      "title": "An automated and combinative method for the predictive ranking of candidate effector proteins of fungal plant pathogens",
+      "authors": "Jones DAB, Rozano L, Debler JW, Mancera RL, Moolhuijzen PM, Hane JK",
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-021-99363-0"
+    },
+    {
+      "year": 2021,
+      "title": "Agroinfiltration for transient gene expression and characterisation of fungal pathogen effectors in cool-season grain legume hosts",
+      "authors": "Debler JW, Henares BM, Lee RC",
+      "journal": "Plant Cell Reports",
+      "doi": "10.1007/s00299-021-02671-y"
+    },
+    {
+      "year": 2020,
+      "title": "Reference genome assembly for Australian <em>Ascochyta rabiei</em> isolate ArME14",
+      "authors": "Shah RM, Williams AH, Hane JK, Lawrence JA, Farfan-Caceres LM, Debler JW, et al.",
+      "journal": "G3: Genes, Genomes, Genetics",
+      "doi": "10.1534/g3.120.401265"
+    },
+    {
+      "year": 2020,
+      "title": "Characterization of growth morphology and pathology, and draft genome sequencing of <em>Botrytis fabae</em>, the causal organism of chocolate spot of faba bean (<em>Vicia faba</em> L.)",
+      "authors": "Lee RC, Farfan-Caceres LM, Debler JW, Syme RA",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2020.00217"
+    },
+    {
+      "year": 2020,
+      "title": "Targeted disruption of scytalone dehydratase gene using <em>Agrobacterium tumefaciens</em>-mediated transformation leads to altered melanin production in <em>Ascochyta lentis</em>",
+      "authors": "Debler JW, Henares BM",
+      "journal": "Journal of Fungi",
+      "doi": "10.3390/jof6040314"
+    },
+    {
+      "year": 2019,
+      "title": "<em>Agrobacterium tumefaciens</em>-mediated transformation and expression of GFP in <em>Ascochyta lentis</em> to characterize ascochyta blight disease progression in lentil",
+      "authors": "Henares BM, Debler JW, Farfan-Caceres LM, Grime CR, Lee RC",
+      "journal": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0223419"
+    },
+    {
+      "year": 2012,
+      "title": "Activation of the two microRNA clusters C19MC and miR-371-3 does not play a prominent role in thyroid cancer",
+      "authors": "Rippe V, Flor I, Debler JW, Drieschner N, Rommel B, Krause D, et al.",
+      "journal": "Molecular Cytogenetics",
+      "doi": "10.1186/1755-8166-5-40"
+    }
+  ],
+
+  "presentations": [
+    {
+      "year": 2025,
+      "type": "talk",
+      "event": "31st Combined Biological Sciences Meeting",
+      "location": "Perth, Australia",
+      "title": "Loop of Unknown Origin — Discovery of a novel 24 kb circular element harbouring viral-like genes in Ascochyta pathogens of lentil and chickpea... and beyond!"
+    },
+    {
+      "year": 2025,
+      "type": "talk",
+      "event": "MicroSeq",
+      "location": "Online conference",
+      "title": "Loop of Unknown Origin — Discovery of a novel 24 kb circular element harbouring viral-like genes in Ascochyta pathogens of lentil and chickpea"
+    },
+    {
+      "year": 2025,
+      "type": "poster",
+      "event": "17th European Conference on Fungal Genetics",
+      "location": "Dublin, Ireland",
+      "title": "Loop of Unknown Origin — Discovery of a novel 24 kb circular element harbouring viral-like genes in Ascochyta pathogens"
+    },
+    {
+      "year": 2024,
+      "type": "talk",
+      "event": "Plant and Animal Genome Conference Australia",
+      "location": "Perth, Australia",
+      "title": "Ascochyta Genomics – A recap of our experience using Oxford Nanopore sequencing"
+    },
+    {
+      "year": 2024,
+      "type": "talk",
+      "event": "GRDC Grains Research Update",
+      "location": "Perth, Australia",
+      "title": "Ascochyta blight in lentils and how to breed varieties with improved resistance: Comparative genome analysis to identify effectors"
+    },
+    {
+      "year": 2023,
+      "type": "talk",
+      "event": "GRDC Crop Protection Forum",
+      "location": "Adelaide, Australia",
+      "title": "A diagnostic test to distinguish which pathotype of Ascochyta blight is present in your paddock"
+    },
+    {
+      "year": 2023,
+      "type": "talk",
+      "event": "8th Stromlo Molecular Plant Pathology Meeting",
+      "location": "Canberra, Australia",
+      "title": "Boscalid as a selectable marker in Ascochyta rabiei and Ascochyta lentis, the causal pathogens of Ascochyta blight in chickpea and lentil"
+    },
+    {
+      "year": 2023,
+      "type": "poster",
+      "event": "16th European Conference on Fungal Genetics",
+      "location": "Innsbruck, Austria",
+      "title": "Boscalid as a new selectable marker for Ascochyta lentis and Ascochyta rabiei"
+    },
+    {
+      "year": 2022,
+      "type": "talk",
+      "event": "7th Stromlo Molecular Plant Pathology Meeting",
+      "location": "Canberra, Australia",
+      "title": "Comparative genome analysis of Ascochyta lentis: Telomere to telomere assemblies for effector discovery"
+    },
+    {
+      "year": 2019,
+      "type": "poster",
+      "event": "29th Combined Biological Sciences Meeting",
+      "location": "Perth, Australia",
+      "title": "Houston, the T-DNA has landed! ATMT of Ascochyta lentis to monitor ascochyta blight progression on resistant and susceptible lentil genotypes"
+    },
+    {
+      "year": 2016,
+      "type": "talk",
+      "event": "6th Stromlo Molecular Plant Pathology Meeting",
+      "location": "Canberra, Australia",
+      "title": "Gateway™ cloning and agroinfiltration for effector screening in pea (Pisum sativum)"
+    },
+    {
+      "year": 2016,
+      "type": "poster",
+      "event": "26th Combined Biological Sciences Meeting",
+      "location": "Perth, Australia",
+      "title": "Faster effector screening using Gateway® cloning and Agroinfiltration"
+    },
+    {
+      "year": 2015,
+      "type": "talk",
+      "event": "25th Combined Biological Sciences Meeting",
+      "location": "Perth, Australia",
+      "title": "An alternative method to create intronless templates for gene expression studies from fungal genomic DNA in the absence of suitable cDNA"
+    },
+    {
+      "year": 2011,
+      "type": "poster",
+      "event": "54th Symposium of the German Society for Endocrinology",
+      "location": "Hamburg, Germany",
+      "title": "A subgroup of thyroid adenomas over-expresses members of two carcinoma-related microRNA clusters"
+    },
+    {
+      "year": 2011,
+      "type": "poster",
+      "event": "Keystone Symposia — MicroRNAs and Non-Coding RNAs and Cancer",
+      "location": "Banff, Canada",
+      "title": "Expression of members of two primate stem cell specific miRNA clusters characterises a subgroup of thyroid adenomas"
+    },
+    {
+      "year": 2010,
+      "type": "talk",
+      "event": "26th Meeting on Experimental Thyroid Research (AESF)",
+      "location": "Halle, Germany",
+      "title": "Expression of members of two microRNA clusters characterise a subgroup of thyroid adenomas"
+    },
+    {
+      "year": 2010,
+      "type": "talk",
+      "event": "12th European Workshop on Cytogenetics and Molecular Genetics of Solid Tumours",
+      "location": "Nijmegen, Netherlands",
+      "title": "Chromosomal translocation activates stem cell microRNAs in thyroid adenomas"
+    }
+  ],
+
+  "awards": [
+    {
+      "year": 2025,
+      "title": "Innovation in Bioinformatics Award",
+      "body": "MicroSeq Online Conference"
+    },
+    {
+      "year": 2024,
+      "title": "FameLab Australia — National Winner",
+      "body": "Recognised for excellence in science communication, presenting complex research in a compelling three-minute format."
+    },
+    {
+      "year": 2024,
+      "title": "CCDM HDR Student Award",
+      "body": "Recognising unwavering dedication to research and consistently helping colleagues across the Centre for Crop and Disease Management."
+    },
+    {
+      "year": 2019,
+      "title": "Best Image — Combined Biological Sciences Meeting",
+      "body": "Awarded for the best image on a research poster at the 29th Combined Biological Sciences Meeting, Perth."
+    }
+  ]
+}

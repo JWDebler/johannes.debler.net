@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Johannes Debler — Molecular Plant Pathologist</title>
+  <meta name="description" content="Johannes Wolfram Debler — PhD researcher in molecular plant pathology, fungal genomics, and effector biology at Curtin University, Perth, Australia." />
+  <link rel="stylesheet" href="style.css" />
+  <!-- Space: the final frontier. These are the publications of researcher Johannes Debler.
+       His ongoing mission: to explore strange new genomes, to seek out new effectors and new pathotypes,
+       to boldly go where no plant pathologist has gone before.
+       (You found the easter egg! Make it so.) -->
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a class="nav-logo" href="#top">JWD</a>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#publications">Publications</a></li>
+        <li><a href="#presentations">Presentations</a></li>
+        <li><a href="#awards">Awards</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <button class="nav-toggle" aria-label="Toggle menu">&#9776;</button>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <header id="top" class="hero">
+    <div class="hero-inner">
+      <img src="headshot.jpg" alt="Johannes Debler" class="hero-photo" />
+      <div class="hero-text">
+        <h1>Johannes Wolfram Debler</h1>
+        <p class="hero-subtitle">Molecular Plant Pathologist &amp; Fungal Genomicist</p>
+        <p class="hero-affil">Centre for Crop and Disease Management · Curtin University · Perth, Australia</p>
+        <div class="hero-links">
+          <a href="https://orcid.org/0000-0002-3604-051X" target="_blank" rel="noopener" class="badge badge-orcid">ORCiD</a>
+          <a href="https://github.com/JWDebler" target="_blank" rel="noopener" class="badge badge-github">GitHub</a>
+          <a href="https://www.linkedin.com/in/jwdebler" target="_blank" rel="noopener" class="badge badge-linkedin">LinkedIn</a>
+        </div>
+      </div>
+    </div>
+    <div class="hero-scroll-hint">↓</div>
+  </header>
+
+  <main>
+
+    <!-- About -->
+    <section id="about" class="section">
+      <div class="container">
+        <h2 class="section-title">About</h2>
+        <div class="about-grid">
+          <div class="about-text">
+            <p>
+              I am a molecular plant pathologist and fungal genomicist based in Perth, Western Australia. My research focuses on the <em>Ascochyta</em> pathogens of cool-season grain legumes, particularly lentil and chickpea, where I investigate the molecular mechanisms of fungal pathogenicity through effector biology and comparative genomics.
+            </p>
+            <p>
+              My PhD at Curtin University's <strong>Centre for Crop and Disease Management</strong> (2021–2025) centred on effector discovery in <em>Ascochyta lentis</em> and <em>Ascochyta rabiei</em>. This work led to new tools for the research community, including a boscalid selectable marker system and new telomere-to-telomere (T2T) genome assemblies for two pathotypes of <em>Ascochyta lentis</em>.
+            </p>
+            <p>
+              Beyond the bench, I am passionate about science communication, demonstrated by winning <strong>FameLab Australia 2024</strong>, and about mentoring the next generation of researchers.
+            </p>
+          </div>
+          <div class="about-highlights">
+            <div class="highlight-card">
+              <span class="highlight-num">11</span>
+              <span class="highlight-label">Peer-reviewed publications</span>
+            </div>
+            <div class="highlight-card">
+              <span class="highlight-num">16+</span>
+              <span class="highlight-label">Conference presentations</span>
+            </div>
+            <div class="highlight-card">
+              <span class="highlight-num">4</span>
+              <span class="highlight-label">Awards</span>
+            </div>
+            <div class="highlight-card">
+              <span class="highlight-num">10+</span>
+              <span class="highlight-label">Years at Curtin University</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="edu-section">
+          <h3>Education</h3>
+          <div class="timeline">
+            <div class="timeline-item">
+              <div class="timeline-year">2021–2025</div>
+              <div class="timeline-content">
+                <strong>PhD — Molecular Plant Pathology</strong>
+                <span class="institution">Curtin University, Perth, Australia</span>
+                <em>Effector discovery in Ascochyta pathogens of lentil and chickpea</em>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="timeline-year">2011</div>
+              <div class="timeline-content">
+                <strong>Diplom (M.Sc.) — Molecular Human Genetics</strong>
+                <span class="institution">University of Bremen, Germany</span>
+                <em>Expression analysis of selected microRNAs in malignant tumors</em>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="timeline-year">2009</div>
+              <div class="timeline-content">
+                <strong>Certificate of Proficiency</strong>
+                <span class="institution">University of Auckland, New Zealand</span>
+                <em>Semester abroad — Forensic Science, Bioinformatics, Structural Biology</em>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Publications — rendered from data.json -->
+    <section id="publications" class="section section-alt">
+      <div class="container">
+        <h2 class="section-title">Publications</h2>
+        <p class="section-subtitle">Full list on <a href="https://orcid.org/0000-0002-3604-051X" target="_blank" rel="noopener">ORCiD 0000-0002-3604-051X</a></p>
+        <div class="pub-list" id="pub-list"></div>
+        <div class="protocols-note">
+          <h3>Protocols</h3>
+          <p>I also share lab protocols openly on <a href="https://www.protocols.io/researchers/johannes-debler" target="_blank" rel="noopener">protocols.io</a>, including methods for high-molecular-weight DNA extraction, quick fungal DNA extraction, GateWay cloning prep, and <em>Agrobacterium</em> electroporation.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Presentations — rendered from data.json -->
+    <section id="presentations" class="section">
+      <div class="container">
+        <h2 class="section-title">Presentations &amp; Conferences</h2>
+        <div class="pres-list" id="pres-list"></div>
+      </div>
+    </section>
+
+    <!-- Awards — rendered from data.json -->
+    <section id="awards" class="section section-alt">
+      <div class="container">
+        <h2 class="section-title">Awards &amp; Recognition</h2>
+        <div class="awards-grid" id="awards-grid"></div>
+      </div>
+    </section>
+
+    <!-- Experience -->
+    <section id="experience" class="section">
+      <div class="container">
+        <h2 class="section-title">Experience</h2>
+
+        <div class="exp-cols">
+          <div class="exp-col">
+            <h3>Professional</h3>
+            <div class="timeline">
+
+<div class="timeline-item">
+                <div class="timeline-year">2025-present</div>
+                <div class="timeline-content">
+                  <strong>Research Associate</strong>
+                  <span class="institution">Curtin University — CCDM, Perth</span>
+                  <p>Molecular cloning, Oxford Nanopore sequencing, fungal transformation, bioinformatic analysis of fungal genomes, effector candidate selection.</p>
+                </div>
+              </div>
+              <div class="timeline-item">
+                <div class="timeline-year">2014–2025</div>
+                <div class="timeline-content">
+                  <strong>Research Assistant</strong>
+                  <span class="institution">Curtin University — CCDM, Perth</span>
+                  <p>Molecular cloning, Oxford Nanopore sequencing, fungal transformation, bioinformatic analysis of fungal genomes, effector candidate selection.</p>
+                </div>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-year">2014</div>
+                <div class="timeline-content">
+                  <strong>Research Assistant</strong>
+                  <span class="institution">Ear Science Institute of Australia, Perth</span>
+                  <p>Microarray expression data analysis; immunostaining of rat tympanic membrane slides.</p>
+                </div>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-year">2014</div>
+                <div class="timeline-content">
+                  <strong>Work Experience</strong>
+                  <span class="institution">Forensic Science Centre — University of Western Australia</span>
+                  <p>DNA extraction and PCR assay development for bovine embryo sexing; porcine mitochondrial DNA analysis.</p>
+                </div>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-year">2013</div>
+                <div class="timeline-content">
+                  <strong>Laboratory Assistant</strong>
+                  <span class="institution">Odyssey Consulting, Bunbury</span>
+                  <p>Immunological assays including quantitative ELISAs for bovine IgG, BVDV antigen and tetracycline concentration.</p>
+                </div>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-year">2012–2013</div>
+                <div class="timeline-content">
+                  <strong>Tissue Culture Specialist</strong>
+                  <span class="institution">Serana (WA), Bunbury</span>
+                  <p>GMP/ISO 9001 quality assurance, endotoxin testing, SDS-PAGE/western blot, tissue culture media production.</p>
+                </div>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-year">2011</div>
+                <div class="timeline-content">
+                  <strong>Laboratory Technician</strong>
+                  <span class="institution">Practice for Human Genetics, Bremen</span>
+                  <p>Molecular biological analysis of patient samples (PCR, Sanger sequencing).</p>
+                </div>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-year">2010–2011</div>
+                <div class="timeline-content">
+                  <strong>Research Assistant</strong>
+                  <span class="institution">Centre for Human Genetics — University of Bremen</span>
+                  <p>RNA/DNA extraction from FFPE tissue, cDNA preparation, PCR and qRT-PCR.</p>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="exp-col">
+            <h3>Volunteer &amp; Community</h3>
+            <div class="timeline">
+            <div class="timeline-item">
+                <div class="timeline-year">2026-present</div>
+                <div class="timeline-content">
+                  <strong>Committee Member — Combined Biological Sciences Meeting</strong>
+                  <span class="institution">Co-convenor</span>
+                  <p>Responsible for organising and managing the conference.</p>
+                </div>
+              </div>
+              <div class="timeline-item">
+                <div class="timeline-year">2020–2025</div>
+                <div class="timeline-content">
+                  <strong>Committee Member — Combined Biological Sciences Meeting</strong>
+                  <span class="institution">Trade Coordinator</span>
+                  <p>Responsible for the trade exhibition area of the annual conference.</p>
+                </div>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-year">2023–2025</div>
+                <div class="timeline-content">
+                  <strong>NTEU Workplace Representative</strong>
+                  <span class="institution">Curtin University</span>
+                  <p>Advocate for the National Tertiary Education Union within the local Curtin community.</p>
+                </div>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-year">2019–2023</div>
+                <div class="timeline-content">
+                  <strong>Membership Officer — Professionals at Curtin (P@C)</strong>
+                  <span class="institution">Curtin University</span>
+                  <p>Developing opportunities for all Curtin staff to enhance knowledge, skills and experience.</p>
+                </div>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-year">2017–2023</div>
+                <div class="timeline-content">
+                  <strong>STEM Educator</strong>
+                  <span class="institution">iFLY Indoor Skydiving, Perth</span>
+                  <p>Teaching Year 5–11 students the physics of gravity and drag using wind tunnel demonstrations.</p>
+                </div>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-year">2008–2011</div>
+                <div class="timeline-content">
+                  <strong>Gymnastics Trainer</strong>
+                  <span class="institution">University of Bremen, Germany</span>
+                  <p>Trainer and supervisor running the university gymnastics group.</p>
+                </div>
+              </div>
+
+            </div>
+
+            <h3 style="margin-top:2rem;">Professional Memberships</h3>
+            <ul class="membership-list">
+              <li>AusBiotech</li>
+              <li>Australian Society for Biochemistry and Molecular Biology (ASBMB)</li>
+              <li>Australian Society for Microbiology (ASM)</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="section section-alt">
+      <div class="container contact-container">
+        <h2 class="section-title">Contact</h2>
+        <p class="contact-intro">I am always happy to discuss research, collaboration opportunities, or science communication.</p>
+        <div class="contact-links">
+          <a href="mailto:johannes.debler@curtin.edu.au" class="contact-item">
+            <span class="contact-icon">✉</span>
+            <span>johannes.debler@curtin.edu.au</span>
+          </a>
+          <a href="https://orcid.org/0000-0002-3604-051X" target="_blank" rel="noopener" class="contact-item">
+            <span class="contact-icon">⬡</span>
+            <span>ORCiD 0000-0002-3604-051X</span>
+          </a>
+          <a href="https://github.com/JWDebler" target="_blank" rel="noopener" class="contact-item">
+            <span class="contact-icon">⌥</span>
+            <span>github.com/JWDebler</span>
+          </a>
+          <a href="https://www.linkedin.com/in/jwdebler" target="_blank" rel="noopener" class="contact-item">
+            <span class="contact-icon">in</span>
+            <span>linkedin.com/in/jwdebler</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>© <span id="year"></span> Johannes Wolfram Debler · Perth, Western Australia</p>
+      <p class="footer-hint">Built with curiosity. <span class="tng-trigger" id="tng-trigger" title="...">&#x2605;</span></p>
+    </div>
+  </footer>
+
+  <!-- TNG Easter Egg Modal -->
+  <div id="tng-modal" class="tng-modal" aria-hidden="true">
+    <div class="tng-modal-inner">
+      <button class="tng-close" id="tng-close" aria-label="Close">×</button>
+      <div class="tng-starfield" id="tng-starfield"></div>
+      <div class="tng-content">
+        <div class="tng-lcars-bar"></div>
+        <p class="tng-label">STARFLEET PERSONNEL FILE</p>
+        <p class="tng-name">Debler, Johannes W.</p>
+        <p class="tng-rank">Rank: Chief Science Officer<br>Assignment: USS <em>Ascochyta</em> NCC-2604</p>
+        <p class="tng-quote">"It is possible to commit no mistakes and still lose. That is not weakness — that is science."</p>
+        <p class="tng-attribution">— Jean-Luc Picard, paraphrased for research</p>
+        <div class="tng-lcars-bar tng-lcars-bottom"></div>
+        <p class="tng-engage" id="tng-engage">MAKE IT SO</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>
