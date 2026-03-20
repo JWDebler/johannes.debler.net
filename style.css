@@ -221,6 +221,7 @@ img { max-width: 100%; display: block; }
 .badge-orcid   { background: #a6ce39; color: #111; }
 .badge-github  { background: #24292f; color: #fff; border: 1px solid #444; }
 .badge-linkedin { background: #0a66c2; color: #fff; }
+.badge-bluesky  { background: #0085ff; color: #fff; }
 
 .hero-scroll-hint {
   margin-top: 3.5rem;
