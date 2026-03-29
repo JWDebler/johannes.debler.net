@@ -255,11 +255,14 @@ img { max-width: 100%; display: block; }
 }
 
 .highlight-card {
+  display: block;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 1rem;
   text-align: center;
+  text-decoration: none;
+  color: inherit;
   transition: border-color var(--transition);
 }
 

@@ -35,11 +35,27 @@ sections.forEach(s => observer.observe(s));
 fetch('data.json')
   .then(r => r.json())
   .then(data => {
+    renderHighlightCounts(data);
     renderPublications(data.publications);
     renderPresentations(data.presentations);
     renderAwards(data.awards);
   })
   .catch(err => console.error('Could not load data.json:', err));
+
+function renderHighlightCounts(data) {
+  const pubs = document.getElementById('stat-publications');
+  const pres = document.getElementById('stat-presentations');
+  const aw = document.getElementById('stat-awards');
+  if (Array.isArray(data.publications) && pubs) {
+    pubs.textContent = data.publications.length;
+  }
+  if (Array.isArray(data.presentations) && pres) {
+    pres.textContent = data.presentations.length;
+  }
+  if (Array.isArray(data.awards) && aw) {
+    aw.textContent = data.awards.length;
+  }
+}
 
 function renderPublications(pubs) {
   const list = document.getElementById('pub-list');

@@ -203,6 +203,11 @@
 
   "awards": [
     {
+      "year": 2026,
+      "title": "Scholarship to attend Science Meets Parliament 2026",
+      "body": "Awarded a scholarship by <a href=\"https://www.croplife.org.au/\" target=\"_blank\" rel=\"noopener\">CropLife Australia</a> to attend 'Science Meets Parliament' in Canberra, Australia. A conference that brings together scientists and policymakers to explore how research can inform decisions that shape Australia’s future."
+    },
+    {
       "year": 2025,
       "title": "Innovation in Bioinformatics Award",
       "body": "MicroSeq Online Conference"
