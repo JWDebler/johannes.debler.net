@@ -85,21 +85,21 @@
       "type": "talk",
       "event": "31st Combined Biological Sciences Meeting",
       "location": "Perth, Australia",
-      "title": "Loop of Unknown Origin — Discovery of a novel 24 kb circular element harbouring viral-like genes in Ascochyta pathogens of lentil and chickpea... and beyond!"
+      "title": "Loop of Unknown Origin - Discovery of a novel 24 kb circular element harbouring viral-like genes in Ascochyta pathogens of lentil and chickpea... and beyond!"
     },
     {
       "year": 2025,
       "type": "talk",
       "event": "MicroSeq",
       "location": "Online conference",
-      "title": "Loop of Unknown Origin — Discovery of a novel 24 kb circular element harbouring viral-like genes in Ascochyta pathogens of lentil and chickpea"
+      "title": "Loop of Unknown Origin - Discovery of a novel 24 kb circular element harbouring viral-like genes in Ascochyta pathogens of lentil and chickpea"
     },
     {
       "year": 2025,
       "type": "poster",
       "event": "17th European Conference on Fungal Genetics",
       "location": "Dublin, Ireland",
-      "title": "Loop of Unknown Origin — Discovery of a novel 24 kb circular element harbouring viral-like genes in Ascochyta pathogens"
+      "title": "Loop of Unknown Origin - Discovery of a novel 24 kb circular element harbouring viral-like genes in Ascochyta pathogens"
     },
     {
       "year": 2024,
@@ -181,7 +181,7 @@
     {
       "year": 2011,
       "type": "poster",
-      "event": "Keystone Symposia — MicroRNAs and Non-Coding RNAs and Cancer",
+      "event": "Keystone Symposia - MicroRNAs and Non-Coding RNAs and Cancer",
       "location": "Banff, Canada",
       "title": "Expression of members of two primate stem cell specific miRNA clusters characterises a subgroup of thyroid adenomas"
     },
@@ -210,12 +210,12 @@
     {
       "year": 2025,
       "title": "Innovation in Bioinformatics Award",
-      "body": "MicroSeq Online Conference"
+      "body": "<a href=\"https://microseqconference.com\" target=\"_blank\" rel=\"noopener\">MicroSeq</a> Online Conference"
     },
     {
       "year": 2024,
-      "title": "FameLab Australia — National Winner",
-      "body": "Recognised for excellence in science communication, presenting complex research in a compelling three-minute format."
+      "title": "FameLab Australia - National Winner",
+      "body": "Recognised for excellence in science communication, presenting complex research in a compelling three-minute format. <a href=\"https://www.youtube.com/watch?v=krxQCEiNrPY&t=3325s\" target=\"_blank\" rel=\"noopener\">My FameLab Australia video</a>"
     },
     {
       "year": 2024,
@@ -224,7 +224,7 @@
     },
     {
       "year": 2019,
-      "title": "Best Image — Combined Biological Sciences Meeting",
+      "title": "Best Image - Combined Biological Sciences Meeting",
       "body": "Awarded for the best image on a research poster at the 29th Combined Biological Sciences Meeting, Perth."
     }
   ]
