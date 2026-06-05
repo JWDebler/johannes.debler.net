@@ -95,6 +95,13 @@
 
   "presentations": [
     {
+      "year": 2026,
+      "type": "poster",
+      "event": "Oxford Nanopore London Calling 2026",
+      "location": "London, UK",
+      "title": "Hiding in plain sight - a novel 24 kb circular element unmasked by the <em>Ascochyta lentis</em> pangenome"
+    },
+    {
       "year": 2025,
       "type": "talk",
       "event": "31st Combined Biological Sciences Meeting",
