@@ -1,6 +1,20 @@
 {
   "publications": [
     {
+      "year": 2026,
+      "title": "Comparative genome analysis identifies necrosis-inducing effectors in the lentil pathogen <em>Ascochyta lentis</em> in isolates with distinct virulence profiles",
+      "authors": "Debler JW, Lee RC, Farfan-Caceres LM, Singh KB, Kamphuis LG, Henares BM",
+      "journal": "BMC Genomics",
+      "doi": "10.1186/s12864-026-12790-z"
+    },
+    {
+      "year": 2026,
+      "title": "<em>Alternaria</em> and <em>Stemphylium</em> species found on safflower plants and seed in Western Australia",
+      "authors": "Fisher M, Moslemi A, Cupitt C, Furuki E, Grime CR, Tahghighi H, Clark BL, Debler JW, Lawrence JA, Gibberd MR, Easton J, Kamphuis LG",
+      "journal": "Plant Disease",
+      "doi": "10.1094/PDIS-07-25-1372-SR"
+    },
+    {
       "year": 2025,
       "title": "Boscalid – a new selectable marker for <em>Ascochyta lentis</em> and <em>Ascochyta rabiei</em>",
       "authors": "Debler JW, Lee RC, Singh KB, Kamphuis LG, Henares BM",
