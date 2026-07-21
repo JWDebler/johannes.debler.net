@@ -13,7 +13,7 @@ function renderPubs(pubs) {
   el.innerHTML = pubs.slice(0, 6).map(p => `
     <div class="r-pub-item">
       <p class="r-pub-title"><span class="r-pub-year">${p.year}</span>${p.title}</p>
-      <p class="r-pub-meta">${p.authors} — <em>${p.journal}</em></p>
+      <p class="r-pub-meta">${p.authors} — <em>${p.journal}</em> — doi:${p.doi}</p>
     </div>
   `).join('');
 }

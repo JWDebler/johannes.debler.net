@@ -141,6 +141,10 @@ body {
   gap: 0.3rem 1.5rem;
   font-size: 0.88rem;
 }
+.r-skills li {
+  padding-left: 1.1em;
+  text-indent: -1.1em;
+}
 .r-skills li::before {
   content: '– ';
   color: var(--r-accent);
