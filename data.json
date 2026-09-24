@@ -2,6 +2,20 @@
   "publications": [
     {
       "year": 2026,
+      "title": "Fine mapping of a major locus for <em>Ascochyta lentis/<em> resistance in lentil (<em>Lens culinaris</em>) accession ILL7537",
+      "authors": "Thackwray EL, Henares BM, Grime CR, Debler JW, Khorramdelazad M, Bar I, Gupta D, Ford R, Lee RC, Kamphuis LG",
+      "journal": "Preprint",
+      "doi": "10.21203/rs.3.rs-10298486/v1"
+    },
+    {
+      "year": 2026,
+      "title": "The putative effector protein AlPE1 from <em>Ascochyta lentis</em> causes necrosis in lentil and pea",
+      "authors": "Lee RC, Henares BM, Debler JW, Syme RA, Farfan-Caceres LM, Kamphuis LG",
+      "journal": "Legume Science",
+      "doi": "10.1002/leg3.70135"
+    },
+    {
+      "year": 2026,
       "title": "Comparative genome analysis identifies necrosis-inducing effectors in the lentil pathogen <em>Ascochyta lentis</em> in isolates with distinct virulence profiles",
       "authors": "Debler JW, Lee RC, Farfan-Caceres LM, Singh KB, Kamphuis LG, Henares BM",
       "journal": "BMC Genomics",
